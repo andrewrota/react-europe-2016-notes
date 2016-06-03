@@ -24,7 +24,7 @@ Lots of excitement with the alpha release at React Conf.
 
 Skip ahead to public release in March 2015.
 
-#EarlyAdaptorProblems
+EarlyAdaptorProblems
 
 Skip ahead six months to September 2015.
 

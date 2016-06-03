@@ -41,3 +41,4 @@ Skip ahead to present day.
 React Native has evolved in a huge number of ways.  Microsoft and Samsung devices support React Native.  Rough edges are slowly getting sanded down and fixed.
 
 React native is more than just react or native.  it's a lingua franca api layer that helps us target all these platforms with javascript.
+
